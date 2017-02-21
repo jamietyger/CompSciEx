@@ -1,2 +1,3 @@
 # CompSciEx
-Some old Computer Science exercises brought back to life
+Here you will find my old Computer Science practicals which have been brought back to life :)
+
