@@ -1,5 +1,4 @@
 # CompSciEx1
-The first practical of my third year.
 
 This was my first practical of my final year in undergrad. The aim of this `python` practical was to aid my understanding of file systems and how much of a pain it used to be to elicit information. 
 
